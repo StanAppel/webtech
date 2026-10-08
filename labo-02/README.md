@@ -1,16 +1,16 @@
 # Labo 2 - reflecties
 
-Naam: (jouw naam)
+Naam: Stan Casteels
 
 ## 2. Selectors lezen
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: 
+- a. `header nav ul li a`: elke link in navigatie in de header
 - b. `article > p`: 
-- c. `.uren li:nth-child(3)`: 
-- d. `h2 ~ p`: 
-- e. `.rassen li:first-child`: 
+- c. `.uren li:nth-child(3)`: de 3 laatste in class uren
+- d. `h2 ~ p`: al de p's in h2
+- e. `.rassen li:first-child`: de eerste regel in klasse rassen
 
 ## 3. Voorspel, dan kijk
 
@@ -18,8 +18,8 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 
 | vraag | mijn voorspelling (kleur) | beslissende trede | uitkomst in de browser | juist? |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| 1 |crimson | | | |
+| 2 |font word kleiner | | | |
 | 3 | | | | |
 | 4 | | | | |
 | 5 | | | | |
