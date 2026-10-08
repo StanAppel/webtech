@@ -1,8 +1,40 @@
 /* stijl.css - labo 3, kleuren (reset.css is linked before this file) */
 
+
+/* Just out perform and mog everyone type of stijl.css */
 /* === tokens === */
 :root {
-
+}
+/* === your rules === */
+ul{
+    padding: 0%;
+    margin: 0;
 }
 
-/* === your rules === */
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: .25rem;
+    height: 50vh;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.tomato{
+    background-color: tomato;
+}
+.orangered{
+    background-color: orangered;
+}
+.coral{
+    background-color: coral;
+}
+.lightsalmon{
+    background-color: lightsalmon;
+}
+.darkorange{
+    background-color: darkorange;
+}
