@@ -6,3 +6,20 @@
 }
 
 /* === your rules === */
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    min-height: 100vh;
+}
+
+main{
+    background-color: orangered;
+    border-color: orangered solid .3rem;
+    border: solid black .5rem;
+    max-width: 50rem;
+    aspect-ratio: 1/1;
+    width: 80%;
+}
+
